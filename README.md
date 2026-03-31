@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Josh</h1>
+<h3 align="center">Backend Engineer | Distributed Systems | Future Business Analyst</h3>
 
-<!--
-**HLocLe/HLocLe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me:
+- Focus on **scalable systems, distributed architecture, and performance optimization**
+- Experience with **C# (.NET), Java Core, RESTful APIs, Docker, Cloud**
+- Designing **real-time and distributed systems** using **SignalR, WebSocket, ZeroMQ**
+- Working with **Agile/Scrum (Jira)** and **CI/CD pipelines**
+- Code quality with **SonarCloud**
+- Design mockups and prototypes using **Figma**
+- Goal: Become a **Business Analyst** with strong technical background
 
-Here are some ideas to get you started:
+## Tech Stack:
+- **Languages:** C#, Java  
+- **Backend:** .NET Core  
+- **Real-time:** SignalR, WebSocket  
+- **Distributed Systems:** ZeroMQ (pub/sub, request/reply)  
+- **DevOps:** Docker, CI/CD  
+- **Tools:** Jira, Git, SonarCloud  
+- **Design:** Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ *Always learning, always building.*
