@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Josh</h1>
-<h3 align="center">Backend Engineer | Distributed Systems | IT Business Analyst</h3>
+<h3 align="center">Backend Engineer | IT Business Analyst</h3>
 
 ## About Me:
 - Focus on **scalable systems, distributed architecture, and performance optimization**
