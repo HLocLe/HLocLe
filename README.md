@@ -12,7 +12,7 @@
 
 ## Tech Stack:
 - **Languages:** C#, Java
-- **Databases:** SQL Server, PostgreSQL (Relational), MongoDB (NoSQL)
+- **Databases:** SQL Server, PostgreSQL, MongoDB (NoSQL)
 - **Real-time:** SignalR, WebSocket, RabbitMQ, ZeroMQ 
 - **Caching:** Redis, MemCache   
 - **DevOps:** Docker, CI/CD
