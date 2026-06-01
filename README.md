@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Josh</h1>
-<h3 align="center">Backend Engineer | IT Business Analyst</h3>
+<h1 align="center">Josh</h1>
+<h3 align="center">Backend Engineer</h3>
 
 ## About Me:
 - Focus on **scalable systems, distributed architecture, and performance optimization**
@@ -15,10 +15,9 @@
 - **Databases:** SQL Server, PostgreSQL, MongoDB (NoSQL)
 - **Real-time:** SignalR, WebSocket, RabbitMQ, ZeroMQ 
 - **Caching:** Redis, MemCache   
-- **DevOps:** Docker, CI/CD
+- **DevOps:** Docker, CI/CD with github actions
 - **Cloud:** AWS, Azure, Heroku, Render (experience with IaaS & PaaS)
 - **Works And Quality Management Tools:** Jira, Git, SonarCloud  
 - **Design:** Figma, Stitch
 
-  
-⭐ *keep grinding.*
+
