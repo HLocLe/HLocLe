@@ -7,7 +7,7 @@
 
 ++ Databases: SQL Server, PostgreSQL, MongoDB (NoSQL)
 
-++ Real-time: SignalR, WebSocket, RabbitMQ, ZeroMQ 
+++ Network Protocols & Message Queue: SignalR, WebSocket, RabbitMQ, ZeroMQ 
 
 ++ Caching: Redis, MemCache   
 
