@@ -13,7 +13,7 @@
 
 ++ DevOps: Docker, CI/CD with github actions
 
-++ Infrastructure: AWS, Azure, Heroku, Render (experience with IaaS & PaaS)
+++ Infras: AWS, Azure, Heroku, Render (experience with IaaS & PaaS)
 
 ++ Works And Quality Management Tools:** Jira, Git, SonarCloud  
 
