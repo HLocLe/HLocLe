@@ -5,9 +5,9 @@
 ## tech:
 ++ Languages: C#, Java
 
-++ Databases(no Sql & Sql): SQL Server, PostgreSQL, MongoDB
+++ Databases(no Sql & Sql): SQL Server, PostgreSQL, MongoDB, Indexing Strategies, B-Tree, Query Optimization, Schema Design
 
-++ Network Protocols & Message Queue: SignalR, WebSocket, RabbitMQ, ZeroMQ 
+++ Networking and Application protocols: Http/1.1, Http/2, ZMTP, Websocket, Tcp, Udp
 
 ++ Caching: Redis, MemCache   
 
