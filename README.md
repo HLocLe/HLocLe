@@ -11,7 +11,7 @@
 
 ++ Caching: Redis, MemCache   
 
-++ DevOps: Docker, CI/CD with github actions
+++ DevOps: Docker, Docker hub , CI/CD with github actions
 
 ++ Infras: AWS, Azure, Heroku, Render (experience with IaaS & PaaS)
 
