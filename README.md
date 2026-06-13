@@ -5,7 +5,7 @@
 ## tech:
 ++ Languages: C#, Java
 
-++ Databases: SQL Server, PostgreSQL, MongoDB (NoSQL)
+++ Databases(no Sql & Sql): SQL Server, PostgreSQL, MongoDB
 
 ++ Network Protocols & Message Queue: SignalR, WebSocket, RabbitMQ, ZeroMQ 
 
@@ -15,7 +15,7 @@
 
 ++ Infras: AWS, Azure, Heroku, Render (experience with IaaS & PaaS)
 
-++ Works And Quality Management Tools:** Jira, Git, SonarCloud  
+++ Works And Quality Management Tools: Jira, Github, Gitlab , SonarCloud  
 
 ++ Design: Figma, Stitch
 
