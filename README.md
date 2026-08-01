@@ -2,18 +2,18 @@
 <h3 align="center">Backend Engineer</h3>
 
 
-## tech:
-++ Languages: C#, Java
+** techstack:
+++ Languages: C#, Java, Python
 
-++ Databases(no Sql & Sql): SQL Server, PostgreSQL, MongoDB, Indexing Strategies, B-Tree, Query Optimization, Schema Design
+++ Backend: ASP.NET Core, Spring Boot
 
-++ Networking and Application protocols: Http/1.1, Http/2, Quic, ZMTP, Websocket, Tcp, Udp
+++ Databases: SQL Server, PostgreSQL, MongoDB, Indexing Strategies, B-Tree, Query Optimization, Schema Design
 
-++ Caching: Redis, MemCache   
+++ Networking: TCP/IP, UDP, HTTP/1.1, HTTP/2, WebSocket, QUIC
 
-++ DevOps: Docker, Docker hub , CI/CD with github actions
+++ Infrastructure: Redis, MemCache, Nginx (Reverse Proxy, Load Balancing, Rate Limiting), PgBouncer (Connection Pooling), Hangfire (Background Processing)   
 
-++ Infras: AWS, Azure, Heroku, Render (experience with IaaS & PaaS)
+++ Cloud & DevOps: Docker, Docker hub , Github Actions, AWS, Azure, Heroku, Render
 
 ++ Works And Quality Management Tools: Jira, Github, Gitlab , SonarCloud  
 
