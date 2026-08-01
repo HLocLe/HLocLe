@@ -4,7 +4,7 @@
 
 ** techstack:
 
-++ Languages: C#, Java, Python
+++ Languages: C#, Java
 
 ++ Backend: ASP.NET Core, Spring Boot
 
